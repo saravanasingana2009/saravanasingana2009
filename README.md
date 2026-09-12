@@ -1,16 +1,23 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Saravana!<br><br>🎓 **Student at Amrita Vishwa Vidyapeetham**<br>💻 **Aspiring Software Developer**<br>🚀 Learning • Building • Exploring Technology<br><br>---<br><br>## 👨‍💻 About Me<br><br>I'm a student at **Amrita Vishwa Vidyapeetham**, passionate about programming, technology, and software development.<br><br>I enjoy learning new programming languages, solving problems, and building projects that help me improve my practical coding skills.<br><br>* 🎓 Currently pursuing my studies at **Amrita Vishwa Vidyapeetham**<br>* 💻 Learning **C, C++, Python & Java**<br>* 🧠 Interested in **Problem Solving & Software Development**<br>* 🚀 Working on improving my programming and development skills<br>* 📚 Always learning something new<br>* 🎯 Goal: Become a skilled software developer<br><br>---<br><br>## 🛠️ Skills & Technologies<br><br>### Programming Languages<br><br>* C<br>* C++<br>* Python<br>* Java<br><br>### Currently Learning<br><br>* Data Structures & Algorithms<br>* Object-Oriented Programming<br>* Git & GitHub<br>* Software Development<br>* Web Development<br><br>---<br><br>## 📂 Projects<br><br>Here are some of the projects I'm working on and learning from:<br><br>🔹 **Coding Practice** – Programs and solutions written while learning programming.<br><br>🔹 **Student Projects** – Academic and personal projects developed during my studies.<br><br>🔹 **Learning Projects** – Small applications and experiments created to understand programming concepts.<br><br>> More projects coming soon 🚀<br><br>---<br><br>## 📈 My Goals<br><br>* 🔥 Improve my problem-solving skills<br>* 🧩 Master Data Structures & Algorithms<br>* 💻 Build real-world projects<br>* 🌐 Learn modern development technologies<br>* 🤝 Contribute to open-source projects<br>* 🚀 Become a professional software developer<br><br>---<br><br>## 📫 Connect With Me<br><br>* 💼 LinkedIn: ****<br>* 📧 Email: **Add your email here**<br>* 🐙 GitHub: **You're already here!**<br><br>---<br><br>### ⭐ "Learn. Build. Fail. Improve. Repeat."<br><br>Thanks for visiting my profile! 😊<br><br>
 
-<!--
-**saravanasingana2009/saravanasingana2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saravana._.7_2009) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SARAVANA SINGANA) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SARAVANA SINGANA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saravana.singana2009@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=saravanasingana2009&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=saravanasingana2009&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=saravanasingana2009&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saravanasingana2009&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=saravanasingana2009&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
